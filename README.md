@@ -1,5 +1,9 @@
 # Round 1 Submission
 
+**Name**: Tori Kauffman
+**Email**: victoriakauffman@college.harvard.edu
+**Address**: Leverett McKinlock A-106 B
+
 ## Lampoon Edits
 ### GitHub
 **[https://github.com/technicalcomp/our-site-victoria-kauffman](https://github.com/technicalcomp/our-site-victoria-kauffman)**
@@ -9,7 +13,7 @@ When the site is visited while an ad block is enabled, a pop-up is dispayed. Thi
 Waving the mouse around also causes the Lampoon's logo to grow larger. 
 
 ### Testing Changes
-Since most changes relate to a pop-up that appears when an ad blocker is enabled, an ad block is required to test these edits. I use the free version of AdBlockPlus, which successfully blocks *all* of the Lampoon's ads, and which my edits were able to detect. 
+Since most changes relate to a pop-up that appears when an ad blocker is enabled, an ad block is required to test these edits. I use the free version of AdBlock or AdAway, both of which successfully block all of the Lampoon's ads, and which my edits were able to detect. 
 The 'close' button flees from the mouse on the laptop, which might make it a bit trickier to see the other features that appear once the button is clicked. It can be cornered with slow and precise movements, or it might be easier to do testing using one of the mobile device options in the inspect menu. 
 
 # Spoof Site
