@@ -22,7 +22,7 @@ The 'close' button flees from the mouse on the laptop, which might make it a bit
 ### Summary of Work
 My site resembles the error screen that commonly comes up on my.harvard, except clearing the cookies won't fix it. It also has a 3.14% chance of loading something else instead of the error message. 
 The page's console error messages also mirror the ones of the real my.harvard page, and the detailed error message page is the same.  
-Clicking on the site while it is loading will pause its reloading process and play a sound 
+Clicking on the site while it is loading will pause its reloading process, play a sound, and bring up another scene before it returns to the status quo. 
 
 ### Testing Changes
 
